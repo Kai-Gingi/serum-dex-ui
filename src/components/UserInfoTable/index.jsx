@@ -15,6 +15,12 @@ export default function Index() {
   return (
     <FloatingElement style={{ flex: 1, paddingTop: 20 }}>
       <Typography>
+      <Paragraph style={{ color: 'rgba(255,255,255,0.5)' }}>
+          Charts Will Be Added Soon.
+        </Paragraph>
+        <Paragraph style={{ color: 'rgba(255,255,255,0.5)' }}>
+          We take a 0.2% Fee on trades to add liquidity to KAI
+        </Paragraph>
         <Paragraph style={{ color: 'rgba(255,255,255,0.5)' }}>
           Make sure to go to Balances and click Settle to send out your funds.
         </Paragraph>
