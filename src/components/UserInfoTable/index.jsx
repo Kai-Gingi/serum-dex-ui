@@ -15,19 +15,15 @@ export default function Index() {
   return (
     <FloatingElement style={{ flex: 1, paddingTop: 20 }}>
       <Typography>
-      <Paragraph style={{ color: 'rgba(255,255,255,0.5)' }}>
-          KAI will be added soon
+        <Paragraph style={{ color: 'rgba(255,255,255,0.5)' }}>
+          We take 20% of the transaction fee to add liquidity to $KAI - <a href="https://solscan.io/token/4tUUpzPsSCzSasdRueA3J2phAvLD9cqRbzFCCNQAJpt4">https://solscan.io/token/4tUUpzPsSCzSasdRueA3J2phAvLD9cqRbzFCCNQAJpt4</a>
         </Paragraph>
         <Paragraph style={{ color: 'rgba(255,255,255,0.5)' }}>
-          We take 20% of the transaction fee to add liquidity to KAI
+          Make sure to go to the Balances page and click Settle to send out your funds.
         </Paragraph>
         <Paragraph style={{ color: 'rgba(255,255,255,0.5)' }}>
-          Make sure to go to Balances and click Settle to send out your funds.
-        </Paragraph>
-        <Paragraph style={{ color: 'rgba(255,255,255,0.5)' }}>
-          To fund your wallet, <a href="https://www.sollet.io">sollet.io</a>.
-          You can get SOL from Coinbase, FTX, Binance, BitMax, and others. You can get
-          other tokens from FTX.{' '}
+          To fund your wallet, you can visit <a href="https://www.sollet.io">sollet.io</a> or simply view the Solana ecosystem for other on chain options. 
+          You can get SOL from FTX, Binance, BitMax, Coinbase + many more!{' '}
         </Paragraph>
       </Typography>
       <Tabs defaultActiveKey="orders">
