@@ -16,17 +16,17 @@ export default function Index() {
     <FloatingElement style={{ flex: 1, paddingTop: 20 }}>
       <Typography>
       <Paragraph style={{ color: 'rgba(255,255,255,0.5)' }}>
-          Charts Will Be Added Soon.
+          KAI will be added soon
         </Paragraph>
         <Paragraph style={{ color: 'rgba(255,255,255,0.5)' }}>
-          We take a 0.2% Fee on trades to add liquidity to KAI
+          We take 20% of the transaction fee to add liquidity to KAI
         </Paragraph>
         <Paragraph style={{ color: 'rgba(255,255,255,0.5)' }}>
           Make sure to go to Balances and click Settle to send out your funds.
         </Paragraph>
         <Paragraph style={{ color: 'rgba(255,255,255,0.5)' }}>
           To fund your wallet, <a href="https://www.sollet.io">sollet.io</a>.
-          You can get SOL from FTX, Binance, BitMax, and others. You can get
+          You can get SOL from Coinbase, FTX, Binance, BitMax, and others. You can get
           other tokens from FTX.{' '}
         </Paragraph>
       </Typography>
