@@ -8,7 +8,8 @@ import { ConnectionContextValues, EndpointInfo } from './types';
 export const ENDPOINTS: EndpointInfo[] = [
   {
     name: 'mainnet-beta',
-    endpoint: 'https://rpc.kaiprotocol.com/d118406ca9092e9cda00862c06520549a1e0869f/',
+    //endpoint: 'https://rpc.kaiprotocol.com/d118406ca9092e9cda00862c06520549a1e0869f/',
+      endpoint: 'https://rpc.ankr.com/solana',
     custom: false,
   },
   { name: 'localnet', endpoint: 'http://127.0.0.1:8899', custom: false },

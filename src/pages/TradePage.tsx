@@ -372,7 +372,7 @@ const RenderSmall = ({ onChangeOrderRef, onPrice, onSize }) => {
       </Row>
       <Row
         style={{
-          height: '900px',
+          height: '75px',
         }}
       >
         <Col flex="auto" style={{ height: '100%', display: 'flex' }}>
