@@ -9,8 +9,8 @@ export const ENDPOINTS: EndpointInfo[] = [
   {
     name: 'mainnet-beta',
     //endpoint: 'https://rpc.kaiprotocol.com/d118406ca9092e9cda00862c06520549a1e0869f/',
-    //endpoint: 'https://rpc.ankr.com/solana',
-    endpoint: 'https://ssc-dao.genesysgo.net/',
+    endpoint: 'https://rpc.ankr.com/solana',
+    //endpoint: 'https://ssc-dao.genesysgo.net/',
     custom: false,
   },
   { name: 'localnet', endpoint: 'http://127.0.0.1:8899', custom: false },
